@@ -1,4 +1,5 @@
-Password Strength Checker
+**Password Strength Checker**
+
 This Python script is designed to assess the strength of a password by analyzing various factors that contribute to password security. The script evaluates the password based on several checks, such as length, character variety, inclusion of numbers, and special characters. It also flags common and weak passwords. The password is assigned a score from 0 to 100 and is categorized into a strength level: Very Strong, Strong, Moderate, Weak, or Very Weak.
 
 Key Features:
